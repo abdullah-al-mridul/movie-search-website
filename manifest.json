@@ -1,0 +1,16 @@
+{
+  "name": "CineZoom",
+  "short_name": "CineZoom",
+  "description": "Discover and explore movies with CineZoom - Your personal movie companion",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1121",
+  "theme_color": "#151f32",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
