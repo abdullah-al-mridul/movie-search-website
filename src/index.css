@@ -33,7 +33,7 @@
 }
 
 #root {
-  overflow-x: hidden !important;
+  /* overflow-x: hidden !important; */
 }
 
 body {
